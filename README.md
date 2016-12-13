@@ -1,2 +1,0 @@
-# websiteExample
-theme
